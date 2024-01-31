@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Timothy</h1>
 <h3 align="center">A passionate frontend developer from Kenya</h3>
 
-- 🔭 I’m currently working on **ticketing platform**
+- 🔭 I’m currently working on **MERN social-media**
 
 - 🌱 I’m currently learning **React**
 
